@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "jx-toaster": [
+        "dist/jx-toaster"
+      ],
+      "jx-toaster/*": [
+        "dist/jx-toaster/*"
+      ]
+    }
   }
 }
